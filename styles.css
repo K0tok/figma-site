@@ -1,0 +1,2101 @@
+@media screen and (min-width: 1367px) {
+    body {
+        position: relative;
+        width: 1920px;
+        height: 1080px;
+        margin: 0;
+        
+        background: #FFFFFF;
+    }
+    .header {
+        position: absolute;
+        width: 1920px;
+        height: 114px;
+        left: 0px;
+        top: 0px;
+    }
+    .logos {
+        position: absolute;
+        width: 615px;
+        height: 55px;
+        left: 125px;
+        top: 29px;
+    }
+    .nacproekt {
+        position: absolute;
+        width: 73px;
+        height: 50px;
+        left: 125px;
+        top: 34px;
+    }
+    .minis {
+        position: absolute;
+        width: 70px;
+        height: 47px;
+        left: 257px;
+        top: 37px;
+    }
+    .businesssvobl {
+        position: absolute;
+        width: 134px;
+        height: 40px;
+        left: 367px;
+        top: 40px;
+    }
+    .fondsvobl {
+        position: absolute;
+        width: 78px;
+        height: 52px;
+        left: 536px;
+        top: 32px;
+    }
+    .moybusiness {
+        position: absolute;
+        width: 75px;
+        height: 55px;
+        left: 665px;
+        top: 29px;
+    }
+    .Ellipse-3 {
+        position: absolute;
+        left: 1189px;
+        top: 0;
+    }
+    .Ellipse-2 {
+        position: absolute;
+        left: 1058px;
+        top: 0;
+    }
+    .Ellipse-1 {
+        position: absolute;
+        left: 1137px;
+        top: 0;
+    }
+    .figure-text {
+        position: absolute;
+        width: 283px;
+        height: 74px;
+        left: 1550px;
+        top: 20px;
+    }
+    .support-text {
+        position: absolute;
+        width: 283px;
+        height: 37px;
+        right: 87px;
+        top: 57px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 37px;
+        
+        color: #FFFFFF;
+    }
+    .number-text {
+        position: absolute;
+        width: 234px;
+        height: 37px;
+        right: 89px;
+        top: 20px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 37px;
+        
+        color: #FFFFFF;
+    }
+    .registr-text {
+        position: absolute;
+        width: 449px;
+        height: 28px;
+        left: 207px;
+        top: 159px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 35px;
+        display: flex;
+        align-items: center;
+        
+        color: #333333;
+    }
+    .undreg-text {
+        position: absolute;
+        left: 100px;
+        width: 650px;
+        top: 220px;
+        bottom: 72.96%;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 35px;
+        text-align: center;
+        
+        color: #000000;
+    }
+    .step-one {
+        position: absolute;
+        width: 16px;
+        height: 16px;
+        left: 291px;
+        top: 354px;
+    }
+    .step-two {
+        position: absolute;
+        width: 200px;
+        left: 307px;
+        top: 354px;
+    }
+    .fio-text {
+        position: absolute;
+        width: 36px;
+        height: 19px;
+        left: 128px;
+        top: 401px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        
+        text-align: center;
+        
+        color: #7879F1;
+    }
+    .fio-button {
+        position: absolute;
+        width: 550px;
+        height: 60px;
+        left: 125px;
+        top: 424px;
+        
+        background: #FDFDFD;
+        border: 1px solid #BDBDBD;
+        box-sizing: border-box;
+        border-radius: 10px; 
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        
+        text-align: left;
+        
+        color: #000000;
+    }
+    .inn-text {
+        position: absolute;
+        width: 42px;
+        height: 19px;
+        left: 128px;
+        top: 516px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        
+        text-align: center;
+        
+        color: #7879F1;
+    }
+    .inn-button {
+        position: absolute;
+        width: 550px;
+        height: 60px;
+        left: 125px;
+        top: 539px;
+        
+        background: #FDFDFD;
+        border: 1px solid #BDBDBD;
+        box-sizing: border-box;
+        border-radius: 10px;
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        
+        text-align: left;
+        
+        color: #000000;
+    }
+    .tooltip-1 {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        left: 684px;
+        top: 559px;
+    }
+    .tooltip-2 {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        left: 684px;
+        top: 674px;
+    }
+    .phone-text {
+        position: absolute;
+        width: 160px;
+        height: 19px;
+        left: 127px;
+        top: 631px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        
+        text-align: center;
+        
+        color: #7879F1;
+    }
+    .phone-button {
+        position: absolute;
+        width: 550px;
+        height: 60px;
+        left: 125px;
+        top: 654px;
+        
+        background: #FDFDFD;
+        border: 1px solid #BDBDBD;
+        box-sizing: border-box;
+        border-radius: 10px;
+        border-radius: 10px;
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        
+        text-align: left;
+        
+        color: #000000;
+    }
+    .must-text {
+        position: absolute;
+        width: 308px;
+        height: 21px;
+        left: 125px;
+        top: 739px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21px;
+        display: flex;
+        align-items: center;
+        
+        color: #BDBDBD;
+    }
+    .suggestion-text {
+        position: absolute;
+        width: 472px;
+        height: 42px;
+        left: 159px;
+        top: 790px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21px;
+        display: flex;
+        align-items: center;
+        
+        color: #BDBDBD;
+    }
+    .suggestion-button {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        left: 125px;
+        top: 787px;
+    }
+    .submit-button {
+        position: absolute;
+        width: 550px;
+        height: 60px;
+        left: 125px;
+        right: 1245px;
+        top: 880px;
+        
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0.08)), #FFFFFF;
+        box-shadow: 0px 0px 2.41919px rgba(0, 0, 0, 0.084), 0px 2.41919px 2.41919px rgba(0, 0, 0, 0.168);
+        border-radius: 10px;
+        
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 28px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+
+        color: #BDBDBD;
+    }
+    .c-vdelo {
+        position: absolute;
+        height: 20px;
+        left: 125px;
+        bottom: 35px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        
+        color: #BDBDBD;
+    }
+    .confidence-text {
+        position: absolute;
+        height: 20px;
+        left: 733px;
+        bottom: 35px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        
+        color: #BDBDBD;
+    }
+    .vk-logo {
+        position: absolute;
+        left: 1484px;
+        top: 1021px;
+    }
+    .inst-logo {
+        position: absolute;
+        left: 1513px;
+        top: 1021px;
+    }
+    .facebook-logo {
+        position: absolute;
+        left: 1542px;
+        top: 1021px;
+    }
+    .youtube-logo {
+        position: absolute;
+        left: 1570px;
+        top: 1021px;
+    }
+    .sup-phone-text {
+        position: absolute;
+        height: 51.66px;
+        width: 218px;
+        left: 1613px;
+        top: 1005px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: right;
+        
+        color: #BDBDBD;
+    }
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1366px) {
+    body {
+        position: relative;
+        width: 1366px;
+        height: 1080px;
+        margin: 0;
+        
+        background: #FFFFFF;
+    }
+    .header {
+        position: absolute;
+        width: 1366px;
+        height: 114px;
+        left: 0px;
+        top: 0px;
+    }
+    .logos {
+        position: absolute;
+        width: 436px;
+        height: 55px;
+        left: -50px;
+        top: 29px;
+    }
+    .nacproekt {
+        position: absolute;
+        width: 73px;
+        height: 50px;
+        left: 125px;
+        top: 34px;
+    }
+    .minis {
+        position: absolute;
+        width: 70px;
+        height: 47px;
+        left: 257px;
+        top: 37px;
+    }
+    .businesssvobl {
+        position: absolute;
+        width: 134px;
+        height: 40px;
+        left: 367px;
+        top: 40px;
+    }
+    .fondsvobl {
+        position: absolute;
+        width: 78px;
+        height: 52px;
+        left: 536px;
+        top: 32px;
+    }
+    .moybusiness {
+        position: absolute;
+        width: 75px;
+        height: 55px;
+        left: 665px;
+        top: 29px;
+    }
+    .Ellipse-3 {
+        position: absolute;
+        width: 518px;
+        height: 354px;
+        left: 848px;
+        top: 0;
+    }
+    .Ellipse-2 {
+        position: absolute;
+        width: 585px;
+        height: 302px;
+        left: 757px;
+        top: 0;
+    }
+    .Ellipse-1 {
+        position: absolute;
+        width: 555px;
+        height: 251px;
+        left: 811px;
+        top: 0;
+    }
+    .figure-text {
+        position: absolute;
+        width: 283px;
+        height: 74px;
+        left: 1075px;
+        top: 20px;
+    }
+    .support-text {
+        position: absolute;
+        width: 283px;
+        height: 37px;
+        right: 87px;
+        top: 57px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 37px;
+        
+        color: #FFFFFF;
+    }
+    .number-text {
+        position: absolute;
+        width: 234px;
+        height: 37px;
+        right: 89px;
+        top: 20px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 37px;
+        
+        color: #FFFFFF;
+    }
+    .registr-text {
+        position: absolute;
+        width: 449px;
+        height: 28px;
+        left: 170px;
+        top: 159px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 35px;
+        
+        color: #333333;
+    }
+    .undreg-text {
+        position: absolute;
+        left: 65px;
+        width: 650px;
+        top: 220px;
+        bottom: 72.96%;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 35px;
+        text-align: center;
+        
+        color: #000000;
+    }
+    .step-one {
+        position: absolute;
+        width: 16px;
+        height: 16px;
+        left: 263px;
+        top: 354px;
+    }
+    .step-two {
+        position: absolute;
+        width: 200px;
+        left: 279px;
+        top: 354px;
+    }
+    .fio-text {
+        position: absolute;
+        width: 36px;
+        height: 19px;
+        left: 100px;
+        top: 401px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        
+        text-align: center;
+        
+        color: #7879F1;
+    }
+    .fio-button {
+        position: absolute;
+        width: 550px;
+        height: 60px;
+        left: 97px;
+        top: 424px;
+        
+        background: #FDFDFD;
+        border: 1px solid #BDBDBD;
+        box-sizing: border-box;
+        border-radius: 10px; 
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        
+        text-align: left;
+        
+        color: #000000;
+    }
+    .inn-text {
+        position: absolute;
+        width: 42px;
+        height: 19px;
+        left: 100px;
+        top: 516px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        
+        text-align: center;
+        
+        color: #7879F1;
+    }
+    .inn-button {
+        position: absolute;
+        width: 550px;
+        height: 60px;
+        left: 97px;
+        top: 539px;
+        
+        background: #FDFDFD;
+        border: 1px solid #BDBDBD;
+        box-sizing: border-box;
+        border-radius: 10px;
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        
+        text-align: left;
+        
+        color: #000000;
+    }
+    .tooltip-1 {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        left: 656px;
+        top: 559px;
+    }
+    .tooltip-2 {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        left: 656px;
+        top: 674px;
+    }
+    .phone-text {
+        position: absolute;
+        width: 160px;
+        height: 19px;
+        left: 100px;
+        top: 631px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        
+        text-align: center;
+        
+        color: #7879F1;
+    }
+    .phone-button {
+        position: absolute;
+        width: 550px;
+        height: 60px;
+        left: 97px;
+        top: 654px;
+        
+        background: #FDFDFD;
+        border: 1px solid #BDBDBD;
+        box-sizing: border-box;
+        border-radius: 10px;
+        border-radius: 10px;
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        
+        text-align: left;
+        
+        color: #000000;
+    }
+    .must-text {
+        position: absolute;
+        width: 308px;
+        height: 21px;
+        left: 97px;
+        top: 739px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21px;
+        display: flex;
+        align-items: center;
+        
+        color: #BDBDBD;
+    }
+    .suggestion-text {
+        position: absolute;
+        width: 472px;
+        height: 42px;
+        left: 131px;
+        top: 790px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21px;
+        display: flex;
+        align-items: center;
+        
+        color: #BDBDBD;
+    }
+    .suggestion-button {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        left: 97px;
+        top: 787px;
+    }
+    .submit-button {
+        position: absolute;
+        width: 550px;
+        height: 60px;
+        left: 97px;
+        right: 1245px;
+        top: 880px;
+        
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0.08)), #FFFFFF;
+        box-shadow: 0px 0px 2.41919px rgba(0, 0, 0, 0.084), 0px 2.41919px 2.41919px rgba(0, 0, 0, 0.168);
+        border-radius: 10px;
+        
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 28px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+
+        color: #BDBDBD;
+    }
+    .c-vdelo {
+        position: absolute;
+        height: 20px;
+        left: 82px;
+        bottom: 35px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 20px;
+        width: 334px;
+        
+        color: #BDBDBD;
+    }
+    .confidence-text {
+        position: absolute;
+        height: 20px;
+        left: 445.5835px;
+        bottom: 35px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 20px;
+        
+        color: #BDBDBD;
+    }
+    .vk-logo {
+        position: absolute;
+        left: 1050px;
+        top: 1021px;
+    }
+    .inst-logo {
+        position: absolute;
+        left: 1079px;
+        top: 1021px;
+    }
+    .facebook-logo {
+        position: absolute;
+        left: 1108px;
+        top: 1021px;
+    }
+    .youtube-logo {
+        position: absolute;
+        left: 1137px;
+        top: 1021px;
+    }
+    .sup-phone-text {
+        position: absolute;
+        height: 51.66px;
+        width: 218px;
+        left: 1115px;
+        top: 1005px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 20px;
+        text-align: right;
+        
+        color: #BDBDBD;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    body {
+        position: relative;
+        width: 1024px;
+        height: 1080px;
+        margin: 0;
+        
+        background: #FFFFFF;
+    }
+    .header {
+        position: absolute;
+        width: 1024px;
+        height: 114px;
+        left: 0px;
+        top: 0px;
+    }
+    .logos {
+        position: absolute;
+        width: 436px;
+        height: 55px;
+        left: -30px;
+        top: 29px;
+    }
+    .nacproekt {
+        position: absolute;
+        width: 73px;
+        height: 50px;
+        left: 125px;
+        top: 34px;
+    }
+    .minis {
+        position: absolute;
+        width: 70px;
+        height: 47px;
+        left: 202px;
+        top: 37px;
+    }
+    .businesssvobl {
+        position: absolute;
+        width: 134px;
+        height: 40px;
+        left: 262px;
+        top: 40px;
+    }
+    .fondsvobl {
+        position: absolute;
+        width: 78px;
+        height: 52px;
+        left: 384px;
+        top: 32px;
+    }
+    .moybusiness {
+        position: absolute;
+        width: 75px;
+        height: 55px;
+        left: 461px;
+        top: 29px;
+    }
+    .Ellipse-3 {
+        position: absolute;
+        width: 388px;
+        height: 265px;
+        left: 636px;
+        top: 0;
+    }
+    .Ellipse-2 {
+        position: absolute;
+        width: 438px;
+        height: 226px;
+        left: 567px;
+        top: 0;
+    }
+    .Ellipse-1 {
+        position: absolute;
+        width: 416px;
+        height: 204px;
+        left: 608px;
+        top: 0;
+    }
+    .figure-text {
+        position: absolute;
+        width: 283px;
+        height: 74px;
+        left: 830px;
+        top: -4px;
+    }
+    .support-text {
+        position: absolute;
+        width: 283px;
+        height: 37px;
+        right: 80px;
+        top: 49px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 37px;
+        
+        color: #FFFFFF;
+    }
+    .number-text {
+        position: absolute;
+        width: 234px;
+        height: 37px;
+        right: 89px;
+        top: 25px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 37px;
+        
+        color: #FFFFFF;
+    }
+    .registr-text {
+        position: absolute;
+        width: 449px;
+        height: 28px;
+        left: 118px;
+        top: 159px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 35px;
+        
+        color: #333333;
+    }
+    .undreg-text {
+        position: absolute;
+        left: 24px;
+        width: 650px;
+        top: 220px;
+        bottom: 72.96%;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 35px;
+        text-align: center;
+        
+        color: #000000;
+    }
+    .step-one {
+        position: absolute;
+        width: 16px;
+        height: 16px;
+        left: 220px;
+        top: 354px;
+    }
+    .step-two {
+        position: absolute;
+        width: 200px;
+        left: 236px;
+        top: 354px;
+    }
+    .fio-text {
+        position: absolute;
+        width: 36px;
+        height: 19px;
+        left: 71px;
+        top: 401px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        
+        text-align: center;
+        
+        color: #7879F1;
+    }
+    .fio-button {
+        position: absolute;
+        width: 550px;
+        height: 60px;
+        left: 68px;
+        top: 424px;
+        
+        background: #FDFDFD;
+        border: 1px solid #BDBDBD;
+        box-sizing: border-box;
+        border-radius: 10px; 
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        
+        text-align: left;
+        
+        color: #000000;
+    }
+    .inn-text {
+        position: absolute;
+        width: 42px;
+        height: 19px;
+        left: 71px;
+        top: 516px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        
+        text-align: center;
+        
+        color: #7879F1;
+    }
+    .inn-button {
+        position: absolute;
+        width: 550px;
+        height: 60px;
+        left: 68px;
+        top: 539px;
+        
+        background: #FDFDFD;
+        border: 1px solid #BDBDBD;
+        box-sizing: border-box;
+        border-radius: 10px;
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        
+        text-align: left;
+        
+        color: #000000;
+    }
+    .tooltip-1 {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        left: 627px;
+        top: 559px;
+    }
+    .tooltip-2 {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        left: 627px;
+        top: 674px;
+    }
+    .phone-text {
+        position: absolute;
+        width: 160px;
+        height: 19px;
+        left: 71px;
+        top: 631px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        
+        text-align: center;
+        
+        color: #7879F1;
+    }
+    .phone-button {
+        position: absolute;
+        width: 550px;
+        height: 60px;
+        left: 68px;
+        top: 654px;
+        
+        background: #FDFDFD;
+        border: 1px solid #BDBDBD;
+        box-sizing: border-box;
+        border-radius: 10px;
+        border-radius: 10px;
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        
+        text-align: left;
+        
+        color: #000000;
+    }
+    .must-text {
+        position: absolute;
+        width: 308px;
+        height: 21px;
+        left: 68px;
+        top: 739px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21px;
+        display: flex;
+        align-items: center;
+        
+        color: #BDBDBD;
+    }
+    .suggestion-text {
+        position: absolute;
+        width: 472px;
+        height: 42px;
+        left: 102px;
+        top: 790px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21px;
+        display: flex;
+        align-items: center;
+        
+        color: #BDBDBD;
+    }
+    .suggestion-button {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        left: 68px;
+        top: 787px;
+    }
+    .submit-button {
+        position: absolute;
+        width: 550px;
+        height: 60px;
+        left: 68px;
+        right: 1245px;
+        top: 880px;
+        
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0.08)), #FFFFFF;
+        box-shadow: 0px 0px 2.41919px rgba(0, 0, 0, 0.084), 0px 2.41919px 2.41919px rgba(0, 0, 0, 0.168);
+        border-radius: 10px;
+        
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 28px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+
+        color: #BDBDBD;
+    }
+    .c-vdelo {
+        position: absolute;
+        width: 260px;
+        height: 20px;
+        left: 25px;
+        bottom: 35px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 20px;
+        
+        color: #BDBDBD;
+    }
+    .confidence-text {
+        position: absolute;
+        height: 20px;
+        left: 315.584px;
+        bottom: 35px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 20px;
+        
+        color: #BDBDBD;
+    }
+    .vk-logo {
+        position: absolute;
+        left: 780px;
+        top: 1021px;
+    }
+    .inst-logo {
+        position: absolute;
+        left: 805px;
+        top: 1021px;
+    }
+    .facebook-logo {
+        position: absolute;
+        left: 830px;
+        top: 1021px;
+    }
+    .youtube-logo {
+        position: absolute;
+        left: 855px;
+        top: 1021px;
+    }
+    .sup-phone-text {
+        position: absolute;
+        height: 51.66px;
+        width: 218px;
+        left: 781px;
+        top: 1005px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 20px;
+        text-align: right;
+        
+        color: #BDBDBD;
+    }
+}
+
+@media screen and (min-width: 361px) and (max-width: 768px) {
+    body {
+        position: relative;
+        width: 1024px;
+        height: 1080px;
+        margin: 0;
+        
+        background: #FFFFFF;
+    }
+    .header {
+        position: absolute;
+        width: 1024px;
+        height: 114px;
+        left: -76px;
+        top: 0px;
+    }
+    .logos {
+        position: absolute;
+        width: 436px;
+        height: 55px;
+        left: -30px;
+        top: 29px;
+    }
+    .nacproekt {
+        position: absolute;
+        width: 73px;
+        height: 50px;
+        left: 125px;
+        top: 34px;
+    }
+    .minis {
+        position: absolute;
+        width: 70px;
+        height: 47px;
+        left: 202px;
+        top: 37px;
+    }
+    .businesssvobl {
+        position: absolute;
+        width: 134px;
+        height: 40px;
+        left: 262px;
+        top: 40px;
+    }
+    .fondsvobl {
+        position: absolute;
+        width: 78px;
+        height: 52px;
+        left: 384px;
+        top: 32px;
+    }
+    .moybusiness {
+        position: absolute;
+        width: 75px;
+        height: 55px;
+        left: 461px;
+        top: 29px;
+    }
+    .Ellipse-3 {
+        position: absolute;
+        width: 303px;
+        height: 192px;
+        left: 468px;
+        top: 0;
+    }
+    .Ellipse-2 {
+        position: absolute;
+        width: 336px;
+        height: 161px;
+        left: 420px;
+        top: 0;
+    }
+    .Ellipse-1 {
+        position: absolute;
+        width: 308px;
+        height: 142px;
+        left: 460px;
+        top: 0;
+    }
+    .figure-text {
+        position: absolute;
+        width: 283px;
+        height: 74px;
+        left: 610px;
+        top: -4px;
+    }
+    .support-text {
+        position: absolute;
+        width: 283px;
+        height: 37px;
+        right: 75px;
+        top: 49px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 37px;
+        
+        color: #FFFFFF;
+    }
+    .number-text {
+        position: absolute;
+        width: 234px;
+        height: 37px;
+        right: 89px;
+        top: 25px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 37px;
+        
+        color: #FFFFFF;
+    }
+    .registr-text {
+        position: absolute;
+        width: 449px;
+        height: 28px;
+        left: 131px;
+        top: 186px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 35px;
+        
+        color: #333333;
+    }
+    .undreg-text {
+        position: absolute;
+        left: 24px;
+        width: 650px;
+        top: 235px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 35px;
+        text-align: center;
+        
+        color: #000000;
+    }
+    .step-one {
+        position: absolute;
+        width: 16px;
+        height: 16px;
+        left: 234px;
+        top: 354px;
+    }
+    .step-two {
+        position: absolute;
+        width: 200px;
+        left: 250px;
+        top: 354px;
+    }
+    .fio-text {
+        position: absolute;
+        width: 36px;
+        height: 19px;
+        left: 71px;
+        top: 401px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        
+        text-align: center;
+        
+        color: #7879F1;
+    }
+    .fio-button {
+        position: absolute;
+        width: 550px;
+        height: 60px;
+        left: 68px;
+        top: 424px;
+        
+        background: #FDFDFD;
+        border: 1px solid #BDBDBD;
+        box-sizing: border-box;
+        border-radius: 10px; 
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        
+        text-align: left;
+        
+        color: #000000;
+    }
+    .inn-text {
+        position: absolute;
+        width: 42px;
+        height: 19px;
+        left: 71px;
+        top: 516px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        
+        text-align: center;
+        
+        color: #7879F1;
+    }
+    .inn-button {
+        position: absolute;
+        width: 550px;
+        height: 60px;
+        left: 68px;
+        top: 539px;
+        
+        background: #FDFDFD;
+        border: 1px solid #BDBDBD;
+        box-sizing: border-box;
+        border-radius: 10px;
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        
+        text-align: left;
+        
+        color: #000000;
+    }
+    .tooltip-1 {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        left: 627px;
+        top: 559px;
+    }
+    .tooltip-2 {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        left: 627px;
+        top: 674px;
+    }
+    .phone-text {
+        position: absolute;
+        width: 160px;
+        height: 19px;
+        left: 71px;
+        top: 631px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        
+        text-align: center;
+        
+        color: #7879F1;
+    }
+    .phone-button {
+        position: absolute;
+        width: 550px;
+        height: 60px;
+        left: 68px;
+        top: 654px;
+        
+        background: #FDFDFD;
+        border: 1px solid #BDBDBD;
+        box-sizing: border-box;
+        border-radius: 10px;
+        border-radius: 10px;
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        
+        text-align: left;
+        
+        color: #000000;
+    }
+    .must-text {
+        position: absolute;
+        width: 308px;
+        height: 21px;
+        left: 68px;
+        top: 739px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21px;
+        display: flex;
+        align-items: center;
+        
+        color: #BDBDBD;
+    }
+    .suggestion-text {
+        position: absolute;
+        width: 472px;
+        height: 42px;
+        left: 133px;
+        top: 790px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21px;
+        display: flex;
+        align-items: center;
+        
+        color: #BDBDBD;
+    }
+    .suggestion-button {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        left: 101px;
+        top: 787px;
+    }
+    .submit-button {
+        position: absolute;
+        width: 550px;
+        height: 60px;
+        left: 68px;
+        right: 1245px;
+        top: 880px;
+        
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0.08)), #FFFFFF;
+        box-shadow: 0px 0px 2.41919px rgba(0, 0, 0, 0.084), 0px 2.41919px 2.41919px rgba(0, 0, 0, 0.168);
+        border-radius: 10px;
+        
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 28px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+
+        color: #BDBDBD;
+    }
+    .c-vdelo {
+        position: absolute;
+        width: 206px;
+        height: 20px;
+        left: 12px;
+        bottom: 45px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 20px;
+        
+        color: #BDBDBD;
+    }
+    .confidence-text {
+        position: absolute;
+        height: 20px;
+        left: 193.584px;
+        bottom: 45px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 20px;
+        
+        color: #BDBDBD;
+    }
+    .vk-logo {
+        position: absolute;
+        left: 665px;
+        top: 1058px;
+    }
+    .inst-logo {
+        position: absolute;
+        left: 690px;
+        top: 1058px;
+    }
+    .facebook-logo {
+        position: absolute;
+        left: 715px;
+        top: 1058px;
+    }
+    .youtube-logo {
+        position: absolute;
+        left: 740px;
+        top: 1058px;
+    }
+    .sup-phone-text {
+        position: absolute;
+        height: 51.66px;
+        width: 218px;
+        left: 541px;
+        bottom: 13px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 20px;
+        text-align: right;
+        
+        color: #BDBDBD;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    body {
+        position: relative;
+        width: 1024px;
+        height: 1080px;
+        margin: 0;
+        
+        background: #FFFFFF;
+    }
+    .header {
+        position: absolute;
+        width: 1024px;
+        height: 114px;
+        left: -76px;
+        top: 0px;
+    }
+    .logos {
+        position: absolute;
+        width: 436px;
+        height: 55px;
+        left: -30px;
+        top: 29px;
+    }
+    .nacproekt {
+        position: absolute;
+        width: 46px;
+        height: 34px;
+        left: 126px;
+        top: -17px;
+    }
+    .minis {
+        position: absolute;
+        width: 54px;
+        height: 27px;
+        left: 192px;
+        top: -15px;
+    }
+    .businesssvobl {
+        position: absolute;
+        width: 81px;
+        height: 24px;
+        left: 257px;
+        top: -15px;
+    }
+    .fondsvobl {
+        position: absolute;
+        width: 33px;
+        height: 33px;
+        left: 352px;
+        top: -14px;
+    }
+    .moybusiness {
+        position: absolute;
+        width: 50px;
+        height: 38px;
+        left: 400px;
+        top: -19px;
+    }
+    .Ellipse-3 {
+        position: absolute;
+        width: 303px;
+        height: 175px;
+        left: 57px;
+        top: 0;
+    }
+    .Ellipse-2 {
+        position: absolute;
+        width: 336px;
+        height: 148px;
+        left: 0px;
+        top: 0;
+    }
+    .Ellipse-1 {
+        position: absolute;
+        width: 308px;
+        height: 128px;
+        left: 53px;
+        top: 0;
+    }
+    .figure-text {
+        position: absolute;
+        width: 283px;
+        height: 74px;
+        left: 252px;
+        top: 18px;
+    }
+    .support-text {
+        position: absolute;
+        width: 283px;
+        height: 37px;
+        right: 75px;
+        top: 39px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 37px;
+        
+        color: #FFFFFF;
+    }
+    .number-text {
+        position: absolute;
+        width: 234px;
+        height: 37px;
+        right: 89px;
+        top: 25px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 37px;
+        
+        color: #FFFFFF;
+    }
+    .registr-text {
+        position: absolute;
+        width: 449px;
+        height: 28px;
+        left: 35px;
+        top: 190px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 35px;
+        
+        color: #333333;
+    }
+    .undreg-text {
+        position: absolute;
+        left: 2px;
+        width: 358px;
+        top: 223px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 17px;
+        line-height: 35px;
+        text-align: center;
+        
+        color: #000000;
+    }
+    .step-one {
+        position: absolute;
+        width: 12px;
+        height: 11px;
+        left: 90px;
+        top: 302px;
+    }
+    .step-two {
+        position: absolute;
+        width: 177px;
+        left: 102px;
+        top: 300px;
+    }
+    .fio-text {
+        position: absolute;
+        width: 36px;
+        height: 19px;
+        left: 162px;
+        top: 327px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        
+        text-align: center;
+        
+        color: #7879F1;
+    }
+    .fio-button {
+        position: absolute;
+        width: 350px;
+        height: 41px;
+        left: 5px;
+        top: 347px;
+        
+        background: #FDFDFD;
+        border: 1px solid #BDBDBD;
+        box-sizing: border-box;
+        border-radius: 10px; 
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        
+        text-align: left;
+        
+        color: #000000;
+    }
+    .inn-text {
+        position: absolute;
+        width: 42px;
+        height: 19px;
+        left: 162px;
+        top: 400px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        
+        text-align: center;
+        
+        color: #7879F1;
+    }
+    .inn-button {
+        position: absolute;
+        width: 350px;
+        height: 41px;
+        left: 5px;
+        top: 420px;
+        
+        background: #FDFDFD;
+        border: 1px solid #BDBDBD;
+        box-sizing: border-box;
+        border-radius: 10px;
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        
+        text-align: left;
+        
+        color: #000000;
+    }
+    .tooltip-1 {
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        left: 205px;
+        top: 405px;
+    }
+    .tooltip-2 {
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        left: 266px;
+        top: 477px;
+    }
+    .phone-text {
+        position: absolute;
+        width: 160px;
+        height: 19px;
+        left: 105px;
+        top: 471px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        
+        text-align: center;
+        
+        color: #7879F1;
+    }
+    .phone-button {
+        position: absolute;
+        width: 350px;
+        height: 41px;
+        left: 5px;
+        top: 492px;
+        
+        background: #FDFDFD;
+        border: 1px solid #BDBDBD;
+        box-sizing: border-box;
+        border-radius: 10px;
+        border-radius: 10px;
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 19px;
+        line-height: 24px;
+        
+        text-align: left;
+        
+        color: #000000;
+    }
+    .must-text {
+        position: absolute;
+        width: 308px;
+        height: 21px;
+        left: 5px;
+        top: 538px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 21px;
+        display: flex;
+        align-items: center;
+        
+        color: #BDBDBD;
+    }
+    .suggestion-text {
+        position: absolute;
+        width: 331px;
+        height: 42px;
+        left: 27px;
+        top: 563px;
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 21px;
+        display: flex;
+        align-items: center;
+        
+        color: #BDBDBD;
+    }
+    .suggestion-button {
+        position: absolute;
+        width: 15px;
+        height: 15px;
+        left: 5px;
+        top: 562px;
+    }
+    .submit-button {
+        position: absolute;
+        width: 350px;
+        height: 41px;
+        left: 5px;
+        right: 1245px;
+        top: 609px;
+        
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0.08)), #FFFFFF;
+        box-shadow: 0px 0px 2.41919px rgba(0, 0, 0, 0.084), 0px 2.41919px 2.41919px rgba(0, 0, 0, 0.168);
+        border-radius: 10px;
+        
+        
+        font-family: 'SFNS Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 28px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+
+        color: #BDBDBD;
+    }
+    .c-vdelo {
+        position: absolute;
+        width: 343px;
+        height: 20px;
+        left: 7px;
+        top: 665px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 20px;
+        
+        color: #BDBDBD;
+    }
+    .confidence-text {
+        position: absolute;
+        height: 20px;
+        width: 340px;
+        left: 9px;
+        top: 681px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 20px;
+        
+        color: #BDBDBD;
+    }
+    .vk-logo {
+        position: absolute;
+        left: 10px;
+        top: 700px;
+        width: 15px;
+    }
+    .inst-logo {
+        position: absolute;
+        left: 30px;
+        top: 700px;
+        width: 15px;
+    }
+    .facebook-logo {
+        position: absolute;
+        left: 50px;
+        top: 700px;
+        width: 15px;
+    }
+    .youtube-logo {
+        position: absolute;
+        left: 70px;
+        top: 700px;
+        width: 15px;
+    }
+    .sup-phone-text {
+        position: absolute;
+        height: 51.66px;
+        width: 200px;
+        left: 95px;
+        top: 697px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 20px;
+        
+        color: #BDBDBD;
+    }
+}
